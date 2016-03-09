@@ -10,6 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        This is a PHP Git Project
+        This is a PHP Git Project. Change test.
     </body>
 </html>
